@@ -1,0 +1,8 @@
+C:\Users\Joshua\Desktop\SkillsUSA\CurrencyConversion\CurrencyConversion\bin\Debug\CurrencyConversion.exe
+C:\Users\Joshua\Desktop\SkillsUSA\CurrencyConversion\CurrencyConversion\bin\Debug\CurrencyConversion.pdb
+C:\Users\Joshua\Desktop\SkillsUSA\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\SkillsUSA\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.CurrencyConversion.resources
+C:\Users\Joshua\Desktop\SkillsUSA\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.Properties.Resources.resources
+C:\Users\Joshua\Desktop\SkillsUSA\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\SkillsUSA\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.exe
+C:\Users\Joshua\Desktop\SkillsUSA\CurrencyConversion\CurrencyConversion\obj\Debug\CurrencyConversion.pdb

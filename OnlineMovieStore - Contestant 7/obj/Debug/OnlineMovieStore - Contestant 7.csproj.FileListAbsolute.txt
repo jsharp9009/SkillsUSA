@@ -1,0 +1,9 @@
+C:\Users\Joshua\Desktop\OnlineMovieStore - Contestant 7\bin\Debug\OnlineMovieStore - Contestant 7.exe
+C:\Users\Joshua\Desktop\OnlineMovieStore - Contestant 7\bin\Debug\OnlineMovieStore - Contestant 7.pdb
+C:\Users\Joshua\Desktop\OnlineMovieStore - Contestant 7\obj\Debug\OnlineMovieStore - Contestant 7.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\OnlineMovieStore - Contestant 7\obj\Debug\OnlineMovieStore___Contestant_7.Form1.resources
+C:\Users\Joshua\Desktop\OnlineMovieStore - Contestant 7\obj\Debug\OnlineMovieStore___Contestant_7.Properties.Resources.resources
+C:\Users\Joshua\Desktop\OnlineMovieStore - Contestant 7\obj\Debug\OnlineMovieStore - Contestant 7.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\OnlineMovieStore - Contestant 7\obj\Debug\OnlineMovieStore - Contestant 7.exe
+C:\Users\Joshua\Desktop\OnlineMovieStore - Contestant 7\obj\Debug\OnlineMovieStore - Contestant 7.pdb
+C:\Users\Joshua\Desktop\OnlineMovieStore - Contestant 7\obj\Debug\OnlineMovieStore___Contestant_7.AddMovie.resources

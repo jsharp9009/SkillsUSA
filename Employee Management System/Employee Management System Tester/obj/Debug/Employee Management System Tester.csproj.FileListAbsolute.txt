@@ -1,0 +1,8 @@
+c:\users\joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Tester\bin\Debug\Employee Management System Tester.exe.config
+c:\users\joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Tester\bin\Debug\Employee Management System Tester.exe
+c:\users\joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Tester\bin\Debug\Employee Management System Tester.pdb
+c:\users\joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Tester\bin\Debug\Employee Management System Library.dll
+c:\users\joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Tester\bin\Debug\Employee Management System Library.pdb
+c:\users\joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Tester\obj\Debug\Employee Management System Tester.csprojResolveAssemblyReference.cache
+c:\users\joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Tester\obj\Debug\Employee Management System Tester.exe
+c:\users\joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Tester\obj\Debug\Employee Management System Tester.pdb

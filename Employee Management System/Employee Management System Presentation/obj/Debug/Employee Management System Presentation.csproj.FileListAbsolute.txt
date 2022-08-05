@@ -1,0 +1,11 @@
+C:\Users\Joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Presentation\bin\Debug\Employee Management System Presentation.exe.config
+C:\Users\Joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Presentation\bin\Debug\Employee Management System Presentation.exe
+C:\Users\Joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Presentation\bin\Debug\Employee Management System Presentation.pdb
+C:\Users\Joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Presentation\bin\Debug\Employee Management System Library.dll
+C:\Users\Joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Presentation\bin\Debug\Employee Management System Library.pdb
+C:\Users\Joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Presentation\obj\Debug\Employee Management System Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Presentation\obj\Debug\Employee_Management_System_Presentation.EMS.resources
+C:\Users\Joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Presentation\obj\Debug\Employee_Management_System_Presentation.Properties.Resources.resources
+C:\Users\Joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Presentation\obj\Debug\Employee Management System Presentation.csproj.GenerateResource.Cache
+C:\Users\Joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Presentation\obj\Debug\Employee Management System Presentation.exe
+C:\Users\Joshua\documents\visual studio 2012\Projects\Employee Management System\Employee Management System Presentation\obj\Debug\Employee Management System Presentation.pdb
